@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+.env
+attendance.db
+*.db
+
+attendance.csv
+students.csv
+
+.DS_Store
+Thumbs.db
+.vscode/
